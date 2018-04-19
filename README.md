@@ -1,1 +1,2 @@
 # Somil_Swarnkar_HESS_2018_Data
+This repository contains the supplimentary figure of sediment load distribution at Nannak Sagar Dam (NSD) & Husepur Gauging Station  (HGS) which are the part of the research "Assessment of uncertainties in soil erosion and sediment yield estimates at ungauged basins: an application to the Garra River basin, India" by Swarnkar et al (2018) published in Hydrology and Earth System Science (HESS) journal. 
